@@ -1,3 +1,15 @@
+# About the App
+A simple todo list app that I made when starting with TypeScript as a beginner.
+
+List of Operations:
+1. Add Items
+2. Delete Items on clicking them
+
+# UI
+
+![image](https://user-images.githubusercontent.com/45959894/151153139-5446d4c5-7c20-44c5-aa02-0a32b090df06.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
